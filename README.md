@@ -36,3 +36,7 @@
 ![2020.png](https://i.loli.net/2020/11/08/fjuGbWKXP2ZLkaw.png)
 - v0.8.2 增加节点解析的鲁棒性，减少误丢的节点数量
 ![3009.png](https://i.loli.net/2020/11/20/kYSFe14mHRgUyL9.png)
+- v0.8.3 优化内存占用，2w节点，2k+可用节点，内存占用不超过256M
+
+## v0.9
+- v0.9.0 增加代理功能，提供同意http代理，通过API接口切换
