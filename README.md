@@ -41,3 +41,6 @@
 ## v0.9
 - v0.9.0 增加代理功能，提供http代理，通过API接口切换节点
 - v0.9.1 数据库更换为DynamoDB，使用AWS提供的永久免费的nosql数据库
+![节点](https://i.loli.net/2020/12/24/pjGn4lIhogyBO8x.png)
+![内存占用](https://i.loli.net/2020/12/24/7NectQpZCw6l89z.png)
+
